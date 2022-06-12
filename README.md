@@ -7,7 +7,7 @@
 ---
 ## *How it work?*
 ### First the program will ask you where is the file that you want to arrange, extension and file's name. After it got the informations, the program puts every line of the file to an array and looks for the changes and prints them  for you.
-#### *The program is beginner level for now so it can support only .txt file type.*
+ > *The program is beginner level for now so it can support only .txt file type.*
 ---
 
 ## *Requirements*
