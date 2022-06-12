@@ -11,11 +11,11 @@
 ---
 
 ## *Requirements*
-### [C compiler](https://sourceforge.net/projects/orwelldevcpp/)
+### [C compiler](https://sourceforge.net/projects/orwelldevcpp/ "Download Link")
 ---
 ## *Credits*
-### [Onur Turan](https://github.com/Onur-TURAN)
+### [Onur Turan](https://github.com/Onur-TURAN "Onur Turan")
 ---
 ## *To know more about us*
-### [SKYLAB](http://yildizskylab.com/)
+### [SKYLAB](http://yildizskylab.com/ "SKYLAB Homepage")
 ### ![logo](http://yildizskylab.com/static/media/yildiz.9af48539cdd43090e41441c69e7b19ad.svg)
